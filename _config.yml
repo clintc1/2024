@@ -1,4 +1,7 @@
-theme: cayman
+# theme: cayman
+remote_theme: pages-themes/cayman@v0.2.0
 title: Best of 2024
 author: Clint
 description: 2024's top albums and tracks
+plugins:
+- jekyll-remote-theme 
