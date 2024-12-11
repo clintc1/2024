@@ -5,3 +5,5 @@ author: Clint
 description: 2024's top albums and tracks
 plugins:
 - jekyll-remote-theme 
+github:
+  is_project_page: false
