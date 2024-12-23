@@ -29,7 +29,7 @@ img {
         <h1>Grace Cummings - Ramona</h1>
       </div>
     </div>
-[[/images/gracecummings.jpg]]
+![[/images/gracecummings.jpg]]
 1. tbc
 2. tbc
 3. 
