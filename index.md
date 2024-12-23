@@ -4,8 +4,8 @@ title: Best of 2024
 <style>
   .container {
   display: flex;
-  align-items: center;
-  justify-content: center
+  align-items: left;
+  justify-content: left
 }
 
 img {
@@ -14,7 +14,7 @@ img {
 }
 
 .text {
-  font-size: 20px;
+  font-size: 14px;
   padding-left: 20px;
 }
   </style>
