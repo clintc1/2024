@@ -26,7 +26,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-        1. Grace Cummings - Ramona
+     <b>   1. Grace Cummings - Ramona </b>
       </div>
     </div>
 <div class="container">
@@ -34,13 +34,76 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-        1. Grace Cummings - Ramona
+     <b>   2. Grace Cummings - Ramona </b>
+      </div>
+    </div>
+<div class="container">
+      <div class="image">
+        <img src="/img/gracecummings.jpg">
+      </div>
+      <div class="text">
+     <b>   3. Grace Cummings - Ramona </b>
+      </div>
+    </div>
+<div class="container">
+      <div class="image">
+        <img src="/img/gracecummings.jpg">
+      </div>
+      <div class="text">
+     <b>   4. Grace Cummings - Ramona </b>
+      </div>
+    </div>
+<div class="container">
+      <div class="image">
+        <img src="/img/gracecummings.jpg">
+      </div>
+      <div class="text">
+     <b>   5. Grace Cummings - Ramona </b>
+      </div>
+    </div>
+<div class="container">
+      <div class="image">
+        <img src="/img/gracecummings.jpg">
+      </div>
+      <div class="text">
+     <b>   6. Grace Cummings - Ramona </b>
       </div>
     </div>
 
-1. tbc
-2. tbc
-3. 
+<div class="container">
+      <div class="image">
+        <img src="/img/gracecummings.jpg">
+      </div>
+      <div class="text">
+     <b>   7. Grace Cummings - Ramona </b>
+      </div>
+    </div>
+<div class="container">
+      <div class="image">
+        <img src="/img/gracecummings.jpg">
+      </div>
+      <div class="text">
+     <b>   8. Grace Cummings - Ramona </b>
+      </div>
+    </div>
+<div class="container">
+      <div class="image">
+        <img src="/img/gracecummings.jpg">
+      </div>
+      <div class="text">
+     <b>   9. Grace Cummings - Ramona </b>
+      </div>
+    </div>
+<div class="container">
+      <div class="image">
+        <img src="/img/gracecummings.jpg">
+      </div>
+      <div class="text">
+     <b>   10. Grace Cummings - Ramona </b>
+      </div>
+    </div>
+    
+
 
 
 # additional
