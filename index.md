@@ -35,7 +35,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     2. Grace Cummings - Ramona
+     2. Flora Cash - behind every beautiful thing
       </div>
     </div>
 <div class="container">
@@ -43,7 +43,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-      3. Grace Cummings - Ramona 
+      3. Laura Jane Grace - Hole In My Head 
       </div>
     </div>
 <div class="container">
@@ -51,7 +51,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-       4. Grace Cummings - Ramona 
+       4. Kathryn Williams & Withered Hand - Willson Williams 
       </div>
     </div>
 <div class="container">
@@ -59,7 +59,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-      5. Grace Cummings - Ramona
+      5. Sega Bodega - Dennis
       </div>
     </div>
 <div class="container">
@@ -67,7 +67,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     6. Grace Cummings - Ramona 
+     6. Young Jesus - The Fool 
       </div>
     </div>
 
@@ -76,7 +76,8 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-      7. Grace Cummings - Ramona 
+      7. Radical Face - Mixtape
+        (liner notes - ADD LINK) [Liner Notes](https://www.radicalface.com/blog/2024/11/12/mixtape-liner-notes)
       </div>
     </div>
 <div class="container">
@@ -84,7 +85,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     8. Grace Cummings - Ramona
+     8. Nilüfer Yanya - My Method Actor
       </div>
     </div>
 <div class="container">
@@ -92,7 +93,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-      9. Grace Cummings - Ramona 
+      9. Fontaines DC - Romance 
       </div>
     </div>
 <div class="container">
@@ -100,7 +101,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-      10. Grace Cummings - Ramona 
+      10. Keaton Henson - Somnambulant Cycles 
       </div>
     </div>
     
