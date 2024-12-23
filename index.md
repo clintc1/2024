@@ -9,8 +9,8 @@ title: Best of 2024
 }
 
 img {
-  max-width: 100%;
-  max-height:100%;
+  max-width: 75%;
+  max-height:75%;
 }
 
 .text {
