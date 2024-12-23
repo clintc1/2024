@@ -26,7 +26,8 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-        <h1>Grace Cummings - Ramona</h1>
+        <h2>1. Grace Cummings</h2><br>
+        <h2>Ramona</h2>
       </div>
     </div>
 ![[img/gracecummings.jpg]]
