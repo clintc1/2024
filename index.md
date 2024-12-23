@@ -23,13 +23,13 @@ img {
 # Top Albums
 <div class="container">
       <div class="image">
-        <img src="/_images/gracecummings.jpg">
+        <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
         <h1>Grace Cummings - Ramona</h1>
       </div>
     </div>
-![[/images/gracecummings.jpg]]
+![[img/gracecummings.jpg]]
 1. tbc
 2. tbc
 3. 
