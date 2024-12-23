@@ -32,7 +32,7 @@ img {
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/gracecummings.jpg">
+        <img src="/img/floracash.jpg">
       </div>
       <div class="text">
      2. Flora Cash - behind every beautiful thing
@@ -40,7 +40,7 @@ img {
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/gracecummings.jpg">
+        <img src="/img/laurajanegrace.jpg">
       </div>
       <div class="text">
       3. Laura Jane Grace - Hole In My Head 
@@ -48,7 +48,7 @@ img {
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/gracecummings.jpg">
+        <img src="/img/willsonwilliams.jpg">
       </div>
       <div class="text">
        4. Kathryn Williams & Withered Hand - Willson Williams 
@@ -56,7 +56,7 @@ img {
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/gracecummings.jpg">
+        <img src="/img/segabodega.jpg">
       </div>
       <div class="text">
       5. Sega Bodega - Dennis
@@ -64,7 +64,7 @@ img {
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/gracecummings.jpg">
+        <img src="/img/youngjesus.jpg">
       </div>
       <div class="text">
      6. Young Jesus - The Fool 
@@ -73,16 +73,16 @@ img {
 
 <div class="container">
       <div class="image">
-        <img src="/img/gracecummings.jpg">
+        <img src="/img/radicalface.jpg">
       </div>
       <div class="text">
-      7. Radical Face - Mixtape
-        (liner notes - ADD LINK) [Liner Notes](https://www.radicalface.com/blog/2024/11/12/mixtape-liner-notes)
+      7. Radical Face - Mixtape <br>
+       <a href="https://www.radicalface.com/blog/2024/11/12/mixtape-liner-notes">(Liner notes)</a>
       </div>
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/gracecummings.jpg">
+        <img src="/img/niluferyanya.jpg">
       </div>
       <div class="text">
      8. Nilüfer Yanya - My Method Actor
@@ -90,7 +90,7 @@ img {
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/gracecummings.jpg">
+        <img src="/img/fontainesdc.jpg">
       </div>
       <div class="text">
       9. Fontaines DC - Romance 
@@ -98,7 +98,7 @@ img {
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/gracecummings.jpg">
+        <img src="/img/keatonhenson.jpg">
       </div>
       <div class="text">
       10. Keaton Henson - Somnambulant Cycles 
