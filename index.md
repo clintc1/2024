@@ -4,7 +4,7 @@ title: Best of 2024
 <style>
   .container {
   display: flex;
-  align-items: left;
+  align-items: center;
   justify-content: left
 }
 
@@ -14,7 +14,7 @@ img {
 }
 
 .text {
-  font-size: 20px;
+  font-size: 18px;
   padding-left: 20px;
 }
   </style>
@@ -26,12 +26,18 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-        1. Grace Cummings
-    <br>
-        Ramona
+        1. Grace Cummings - Ramona
       </div>
     </div>
-![[img/gracecummings.jpg]]
+<div class="container">
+      <div class="image">
+        <img src="/img/gracecummings.jpg">
+      </div>
+      <div class="text">
+        1. Grace Cummings - Ramona
+      </div>
+    </div>
+
 1. tbc
 2. tbc
 3. 
