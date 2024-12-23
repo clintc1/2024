@@ -26,7 +26,8 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-        <h2>1. Grace Cummings</h2><br>
+        1. Grace Cummings
+    <br>
         <h2>Ramona</h2>
       </div>
     </div>
