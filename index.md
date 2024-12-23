@@ -14,7 +14,7 @@ img {
 }
 
 .text {
-  font-size: 14px;
+  font-size: 20px;
   padding-left: 20px;
 }
   </style>
@@ -28,7 +28,7 @@ img {
       <div class="text">
         1. Grace Cummings
     <br>
-        <h2>Ramona</h2>
+        Ramona
       </div>
     </div>
 ![[img/gracecummings.jpg]]
