@@ -16,7 +16,7 @@ img {
 .text {
   font-size: 18px;
   padding-left: 20px;
-  font-weight: 500;
+  font-weight: 550;
 }
   </style>
   
@@ -27,7 +27,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     <b>   1. Grace Cummings - Ramona </b>
+      1. Grace Cummings - Ramona 
       </div>
     </div>
 <div class="container">
@@ -35,7 +35,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     <b>   2. Grace Cummings - Ramona </b>
+     2. Grace Cummings - Ramona
       </div>
     </div>
 <div class="container">
@@ -43,7 +43,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     <b>   3. Grace Cummings - Ramona </b>
+      3. Grace Cummings - Ramona 
       </div>
     </div>
 <div class="container">
@@ -51,7 +51,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     <b>   4. Grace Cummings - Ramona </b>
+       4. Grace Cummings - Ramona 
       </div>
     </div>
 <div class="container">
@@ -59,7 +59,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     <b>   5. Grace Cummings - Ramona </b>
+      5. Grace Cummings - Ramona
       </div>
     </div>
 <div class="container">
@@ -67,7 +67,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     <b>   6. Grace Cummings - Ramona </b>
+     6. Grace Cummings - Ramona 
       </div>
     </div>
 
@@ -76,7 +76,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     <b>   7. Grace Cummings - Ramona </b>
+      7. Grace Cummings - Ramona 
       </div>
     </div>
 <div class="container">
@@ -84,7 +84,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     <b>   8. Grace Cummings - Ramona </b>
+     8. Grace Cummings - Ramona
       </div>
     </div>
 <div class="container">
@@ -92,7 +92,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     <b>   9. Grace Cummings - Ramona </b>
+      9. Grace Cummings - Ramona 
       </div>
     </div>
 <div class="container">
@@ -100,7 +100,7 @@ img {
         <img src="/img/gracecummings.jpg">
       </div>
       <div class="text">
-     <b>   10. Grace Cummings - Ramona </b>
+      10. Grace Cummings - Ramona 
       </div>
     </div>
     
