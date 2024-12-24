@@ -124,7 +124,8 @@ a:active {
       10. <a href="https://open.spotify.com/album/3h9QjkAdxLZGgZgbqjU2S4?si=jnkZAlUNSuG_HBHB1DyYoQ"> Keaton Henson - Somnambulant Cycles </a>
       </div>
     </div>
-    
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/13OmRuq3htFXrqbXbq1lZQ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # Shortlist and EPs
 - Siobhan Wilson - Flowercore Vol 1, 2 & 3
 - Efterklang - Things We Have In Common
@@ -133,7 +134,7 @@ a:active {
 - Wrest - 
 - Dealers of God - 
 - VR Sex - 
-- The Smile - xxxxWHICHONE IF ANY
+- The Smile - xxxxxxxxxxxxx
 - Ludovico Einaudi - La Tresse (OST)
 - Neøv - Soft Atlas
 - Four Tet - Loved
