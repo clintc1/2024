@@ -24,10 +24,10 @@ img {
 # Top Albums
 <div class="container">
       <div class="image">
-        <img src="/img/gracecummings.jpg">
+     <a href="https://open.spotify.com/album/1sW5yJBXX7MlGV6bWpjdFZ?si=2w1tDHSWTyyYXxd0YSMgYw">   <img src="/img/gracecummings.jpg"></a>
       </div>
       <div class="text">
-      1. Grace Cummings - Ramona 
+      1. <a href="https://open.spotify.com/album/1sW5yJBXX7MlGV6bWpjdFZ?si=2w1tDHSWTyyYXxd0YSMgYw"> Grace Cummings - Ramona </a>
       </div>
     </div>
 <div class="container">
