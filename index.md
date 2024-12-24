@@ -31,7 +31,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: black;
+  color: MidnightBlue;
 }
 
 /* selected link */
