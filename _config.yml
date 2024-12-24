@@ -2,7 +2,7 @@
 remote_theme: pages-themes/slate@v0.2.0
 title: Best of 2024
 author: Clint
-description: Top albums and tracks
+description: 
 plugins:
 - jekyll-remote-theme 
 github:
