@@ -18,6 +18,26 @@ img {
   padding-left: 20px;
   font-weight: 550;
 }
+
+   /* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+} 
   </style>
   
 
@@ -32,76 +52,76 @@ img {
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/floracash.jpg">
+    <a href="">    <img src="/img/floracash.jpg"> </a>
       </div>
       <div class="text">
-     2. Flora Cash - behind every beautiful thing
+     2. <a href=""> Flora Cash - behind every beautiful thing </a>
       </div>
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/laurajanegrace.jpg">
+      <a href="">    <img src="/img/laurajanegrace.jpg"> </a>
       </div>
       <div class="text">
-      3. Laura Jane Grace - Hole In My Head 
+      3. <a href=""> Laura Jane Grace - Hole In My Head </a>
       </div>
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/willsonwilliams.jpg">
+     <a href="">     <img src="/img/willsonwilliams.jpg"> </a>
       </div>
       <div class="text">
-       4. Kathryn Williams & Withered Hand - Willson Williams 
+       4. <a href=""> Kathryn Williams & Withered Hand - Willson Williams </a>
       </div>
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/segabodega.jpg">
+     <a href="">     <img src="/img/segabodega.jpg"> </a>
       </div>
       <div class="text">
-      5. Sega Bodega - Dennis
+      5. <a href=""> Sega Bodega - Dennis </a>
       </div>
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/youngjesus.jpg">
+    <a href="">      <img src="/img/youngjesus.jpg"> </a>
       </div>
       <div class="text">
-     6. Young Jesus - The Fool 
+     6. <a href=""> Young Jesus - The Fool </a>
       </div>
     </div>
 
 <div class="container">
       <div class="image">
-        <img src="/img/radicalface.jpg">
+    <a href="">      <img src="/img/radicalface.jpg"> </a>
       </div>
       <div class="text">
-      7. Radical Face - Mixtape <br>
+      7. <a href=""> Radical Face - Mixtape </a> <br>
        <a href="https://www.radicalface.com/blog/2024/11/12/mixtape-liner-notes">(Liner notes)</a>
       </div>
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/niluferyanya.jpg">
+  <a href="">        <img src="/img/niluferyanya.jpg"> </a>
       </div>
       <div class="text">
-     8. Nilüfer Yanya - My Method Actor
+     8. <a href=""> Nilüfer Yanya - My Method Actor</a>
       </div>
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/fontainesdc.jpg">
+    <a href="">      <img src="/img/fontainesdc.jpg"> </a>
       </div>
       <div class="text">
-      9. Fontaines DC - Romance 
+      9. <a href=""> Fontaines DC - Romance </a>
       </div>
     </div>
 <div class="container">
       <div class="image">
-        <img src="/img/keatonhenson.jpg">
+    <a href="">      <img src="/img/keatonhenson.jpg"> </a>
       </div>
       <div class="text">
-      10. Keaton Henson - Somnambulant Cycles 
+      10. <a href=""> Keaton Henson - Somnambulant Cycles </a>
       </div>
     </div>
     
