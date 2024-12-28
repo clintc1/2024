@@ -125,9 +125,9 @@ a:active {
       </div>
     </div>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/13OmRuq3htFXrqbXbq1lZQ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<br>
 # Shortlist and EPs
-- Siobhan Wilson - <a href="https://open.spotify.com/album/4iRIBCOHiWKDvP4IhWSJ70?si=5F7ZJaaBQ6G5He_MWtP_AQ">Flowercore Vol 1</a>, <<a href="https://open.spotify.com/album/3b7QjtNW5GSZmaZhCao9CS?si=l_4KuLGsQXCENdOoSWqCSg">2</a> & <a href="https://open.spotify.com/album/2tbF4TtXRKpTXmOrdJFara?si=8J59Y96MR52Yflk2AY8WsA">3</a>
+- Siobhan Wilson - <a href="https://open.spotify.com/album/4iRIBCOHiWKDvP4IhWSJ70?si=5F7ZJaaBQ6G5He_MWtP_AQ">Flowercore Vol 1 </a>, <a href="https://open.spotify.com/album/3b7QjtNW5GSZmaZhCao9CS?si=l_4KuLGsQXCENdOoSWqCSg">2</a> & <a href="https://open.spotify.com/album/2tbF4TtXRKpTXmOrdJFara?si=8J59Y96MR52Yflk2AY8WsA">3</a>
 - <a href="https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn?si=lwVTtHbLTq26UKzKfU_D1w">Efterklang - Things We Have In Common </a>
 - <a href="https://open.spotify.com/album/6MygjJ2a8narXmZnk9ifKp?si=cAC7bH_AT4WZWfUBnkQ5AQ">Kim Deal - Nobody Loves You More </a>
 - <a href="https://open.spotify.com/album/4Aub4gPzHl5mO23AJYymzD?si=uFImeBgoQUSwY2NPYmlQyQ">Lord Spikeheart - The Adept </a>
@@ -147,6 +147,6 @@ a:active {
 - <a href="https://open.spotify.com/album/6iu9H2e7R2xCglnJc3KDCH?si=DN98x7JMRHSOdRAdWkQtKA">Echos - Over & Over (EP) </a>
 - <a href="https://open.spotify.com/album/3HXjzaIgjZrDG7iJ35WpBL?si=QiEiEr_DSHuEH0HdjbXHBQ">Forest Swords - Torch/Pearl of Hail (EP) </a>
 - <a href="https://open.spotify.com/album/25SEvQdnAQ5fVS6HH70I6f?si=UwDlb64IQ2S9eAQMEfyGzg">India Thieriot - You Said I Couldn't (EP) </a>
-
+<br>
 # Top 100 tracks of 2024
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6bElk7qv5OV65fE4uctZUl?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
